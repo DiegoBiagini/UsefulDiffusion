@@ -14,7 +14,11 @@
 
 - High-Resolution Image Synthesis with Latent Diffusion Models; Rombach et al. - https://arxiv.org/pdf/2112.10752.pdf
 - Classifier-Free diffusion guidance; Ho, Salimans - https://arxiv.org/pdf/2207.12598.pdf
+
+## Samplers
 - Denoising Diffusion Implicit Models; Song et al. - https://arxiv.org/pdf/2010.02502.pdf
+- DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models; Lu et al. - https://arxiv.org/pdf/2211.01095v1.pdf
+
 
 ### Finetuning
 - An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion; Gal et al. - https://arxiv.org/pdf/2208.01618v1.pdf
