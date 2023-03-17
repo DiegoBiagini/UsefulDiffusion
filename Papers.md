@@ -25,3 +25,4 @@
 - Diffusion Models: A Comprehensive Survey of Methods and Applications; Yang et al. - https://arxiv.org/pdf/2209.00796v9.pdf
 - What the DAAM: Interpreting Stable Diffusion Using Cross Attention; Tang et al. - https://arxiv.org/pdf/2210.04885v5.pdf
 - Is synthetic data from Generative models ready for image recognition; He et al. - https://arxiv.org/pdf/2210.07574v2.pdf
+- Compositional Visual Generation with Composable Diffusion Models; Lie et al. - https://arxiv.org/pdf/2206.01714.pdf
