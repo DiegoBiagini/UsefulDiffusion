@@ -14,7 +14,7 @@
 
 - High-Resolution Image Synthesis with Latent Diffusion Models; Rombach et al. - https://arxiv.org/pdf/2112.10752.pdf
 - Classifier-Free diffusion guidance; Ho, Salimans - https://arxiv.org/pdf/2207.12598.pdf
-
+- Adding Conditional Control to Text-to-Image Diffusion Models; Zhang,Agrawala https://arxiv.org/pdf/2302.05543.pdf
 ## Samplers
 - Denoising Diffusion Implicit Models; Song et al. - https://arxiv.org/pdf/2010.02502.pdf
 - DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models; Lu et al. - https://arxiv.org/pdf/2211.01095v1.pdf
