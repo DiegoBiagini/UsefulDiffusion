@@ -11,3 +11,4 @@
 # Libraries
 
 - https://huggingface.co/docs/diffusers/index
+- https://github.com/Project-MONAI/GenerativeModels/
