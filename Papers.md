@@ -13,6 +13,7 @@
 ## Techniques
 
 - High-Resolution Image Synthesis with Latent Diffusion Models; Rombach et al. - https://arxiv.org/pdf/2112.10752.pdf
+- Diffusion Models Beat GANs on Image Synthesis; Nichol, Dhariwal - https://arxiv.org/pdf/2105.05233.pdf (Classifier Guidance)
 - Classifier-Free diffusion guidance; Ho, Salimans - https://arxiv.org/pdf/2207.12598.pdf
 - Adding Conditional Control to Text-to-Image Diffusion Models; Zhang,Agrawala https://arxiv.org/pdf/2302.05543.pdf
 ## Samplers
