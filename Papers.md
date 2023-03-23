@@ -18,7 +18,7 @@
 - Adding Conditional Control to Text-to-Image Diffusion Models; Zhang,Agrawala https://arxiv.org/pdf/2302.05543.pdf
 ## Samplers
 - Denoising Diffusion Implicit Models; Song et al. - https://arxiv.org/pdf/2010.02502.pdf
-- Pseudo Numerical Methods for Diffusion Models on Manifold; Liu et al. - https://arxiv.org/pdf/2202.09778.pdf
+- Pseudo Numerical Methods for Diffusion Models on Manifolds; Liu et al. - https://arxiv.org/pdf/2202.09778.pdf
 - DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models; Lu et al. - https://arxiv.org/pdf/2211.01095v1.pdf
 
 
