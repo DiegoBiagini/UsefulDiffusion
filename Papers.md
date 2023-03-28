@@ -9,6 +9,7 @@
 ### Related models
 - Generative Modeling by Estimating Gradients of the Data Distribution; Song, Ermon - https://arxiv.org/pdf/1907.05600.pdf
 - Score-Based Generative Modeling through Stochastic Differential Equations; Song et al. - https://arxiv.org/pdf/2011.13456.pdf
+- Consistency Models; Song et al. - https://arxiv.org/pdf/2303.01469.pdf
 
 ## Techniques
 
