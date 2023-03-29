@@ -26,7 +26,7 @@
 ### Finetuning
 - An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion; Gal et al. - https://arxiv.org/pdf/2208.01618v1.pdf
 - DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation; Ruiz et al. - https://arxiv.org/pdf/2208.12242v1.pdf
-- LoRA: Low-Rank Adaptation of Large Language Models: https://arxiv.org/pdf/2106.09685.pdf
+- LoRA: Low-Rank Adaptation of Large Language Models; Hu et al. - https://arxiv.org/pdf/2106.09685.pdf
 
 ## Other
 - Diffusion Models: A Comprehensive Survey of Methods and Applications; Yang et al. - https://arxiv.org/pdf/2209.00796v9.pdf
