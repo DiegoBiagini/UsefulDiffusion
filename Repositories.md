@@ -7,6 +7,7 @@
 - https://github.com/CompVis/latent-diffusion
 - https://github.com/CompVis/stable-diffusion
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- https://github.com/invoke-ai/InvokeAI
 
 # Libraries
 
